@@ -1,0 +1,1 @@
+Ay yo i got here from bash using "code . hello_world.txt"
